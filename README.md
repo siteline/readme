@@ -6,7 +6,7 @@
 ## How to communicate between proxy and siteline servers
 The proxy pulls messages from siteline servers by HTTP GET method.
 
-###　server info
+### server info
 The following request is used to get the information about the siteline server:
 ```
 http://<ip>:<port>/about
